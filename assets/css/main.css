@@ -2345,7 +2345,7 @@
     font-size: 1.5em;
 }
 
-#generalAssembly {
+/* #generalAssembly {
     padding: 46px;
     top: -26px;
     margin-bottom: -75px;
@@ -2354,7 +2354,20 @@
 #cornell {
     padding: 10px;
     margin-bottom: -21px;
+} */
+
+.card .card-image img {
+    display: block;
+    border-radius: 2px 2px 0 0;
+    position: relative;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px;
 }
+
 
 #what_i_believe {
 
