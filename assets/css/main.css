@@ -1094,8 +1094,9 @@
 
   @media screen and (max-width: 736px) {
 
+/* edited to make 20px on all sides */
     .row > * {
-      padding: 20px 0 0 20px;
+      padding: 20px;
     }
 
     .row {
@@ -2376,7 +2377,7 @@
 #first_section_image {
     position: relative;
     margin: 0;
-    background-image: url(images/overlay.png), url(../../images/daisies-green-background.jpg);
+    background-image: url(images/overlay.png), url(../../images/Green-Background-Pi3C.jpg);
     background-size: auto, cover;
     background-position: top left, center center;
     background-repeat: repeat, no-repeat;
@@ -2430,3 +2431,4 @@
     background-attachment: fixed;
 
 }
+
